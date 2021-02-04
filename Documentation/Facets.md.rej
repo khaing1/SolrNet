@@ -1,0 +1,10 @@
+diff a/Documentation/Facets.md b/Documentation/Facets.md	(rejected hunks)
+@@ -60,7 +60,7 @@
+     Console.WriteLine(dr.Value);
+ }
+ ```
+-
++This is a change in test branch
+ ### Arbitrary facet queries
+ Arbitrary facet queries are handled by the `SolrFacetQuery` class. Results are available through the `FacetQueries` property.
+ 
