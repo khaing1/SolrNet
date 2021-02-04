@@ -15,7 +15,7 @@
 
 Solr example configuration
 --------------------------
-Testing pull request
+Testing pull request again
 
 To run this example configuration, use 
 
